@@ -24,4 +24,5 @@ outputudpsocket:13 outputtcpsocket:79<br>
 <br>
 ## Notes
 DNSが外向きに張るセッションのUDP/TCPカウントを取ってみる。<br>
+netstatを使用<br>
 BINDだと「-S」オプションが関係する。<br>
