@@ -14,9 +14,9 @@ $ cat snmpd.conf.add >> /etc/snmp/snmpd.conf<br>
 $ cat /etc/snmp/snmpd.conf|grep dnsdist<br>
 extend .1.3.6.1.4.1.18689.0.5 dns-socket /usr/local/bin/dns-socket<br>
 <br>
--- copy dnsdist-stats<br>
-$ cp dnsdist-stats /usr/local/bin/<br>
-$ chmod 755 /usr/local/bin/dnsdist-stats<br>
+-- copy dns-socket<br>
+$ cp dns-socket /usr/local/bin/<br>
+$ chmod 755 /usr/local/bin/dns-socket<br>
 <br>
 -- check example<br>
 $ /usr/local/bin/dns-socket<br>
