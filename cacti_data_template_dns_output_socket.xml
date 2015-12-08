@@ -3,7 +3,7 @@
 		<name>DNS Output Socket</name>
 		<ds>
 			<t_name></t_name>
-			<name>DNS Output Socket</name>
+			<name>|host_description| - DNS Output Socket</name>
 			<data_input_id>hash_0300241ffa16a502d1c01d087a9c0894bbc0e7</data_input_id>
 			<t_rra_id></t_rra_id>
 			<t_rrd_step></t_rrd_step>
@@ -44,9 +44,9 @@
 		</items>
 		<data>
 			<item_000>
-				<data_input_field_id>hash_0700247865d80ac5249ef6f16de6589b0e8b2b</data_input_field_id>
-				<t_value></t_value>
-				<value></value>
+				<data_input_field_id>hash_0700243e7dafb7a4692253d3a5d8a772517161</data_input_field_id>
+				<t_value>on</t_value>
+				<value>.1.3.6.1.4.1.18689.0.5.4.1.2.10.100.110.115.45.115.111.99.107.101.116.1</value>
 			</item_000>
 			<item_001>
 				<data_input_field_id>hash_0700248116718427fb878f575c98ea93932146</data_input_field_id>
@@ -54,9 +54,9 @@
 				<value></value>
 			</item_001>
 			<item_002>
-				<data_input_field_id>hash_0700243e7dafb7a4692253d3a5d8a772517161</data_input_field_id>
+				<data_input_field_id>hash_0700247865d80ac5249ef6f16de6589b0e8b2b</data_input_field_id>
 				<t_value></t_value>
-				<value>.1.3.6.1.4.1.18689.0.5.4.1.2.10.100.110.115.45.115.111.99.107.101.116.1</value>
+				<value></value>
 			</item_002>
 		</data>
 	</hash_01002446dc381c9ab5526b9bab39145ccd9d8e>
